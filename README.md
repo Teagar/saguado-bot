@@ -1,13 +1,13 @@
-# ☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️
+# ☄️✨SAGUADO-BOT✨☄️
 <h1 align="center">
     <p>
         <img src= "https://thumbs.gfycat.com/ComplexSourKakapo-size_restricted.gif">
     </p>
     <p>
-        <a href="https://github.com/ianmsfvenom"><img title="Author"    src="https://img.shields.io/badge/Author-Briz4loka-purple.svg?style=for-the-badge&logo=github"></a>
+        <a href="https://github.com/SrThanulk"><img title="Author"    src="https://img.shields.io/badge/Author-Briz4loka-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
-        <a href="https://github.com/ianmsfvenom/followers"><img title="Followers" src="https://img.shields.io/github/followers/ianmsfvenom?color=blue&style=flat-square"></a>
+        <a href="https://github.com/SrThanulk/followers"><img title="Followers" src="https://img.shields.io/github/followers/SrThanulk?color=blue&style=flat-square"></a>
         <a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
         <a href="https://github.com/mhankbarbar/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/termux-wabot?color=blue&style=flat-square"></a>
         <a href="https://github.com/mhankbarbar/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/termux-wabot?color=blue&style=flat-square"></a>
