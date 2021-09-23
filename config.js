@@ -15,7 +15,7 @@ var sgooglenotregister = false
 const antinewchatmsg = 'O anti chat novo está ativado e você não é meu proprietário, logo será bloqueado'
 //mensagem do antinewchat
 
-const urlaudiomenu = 'https://b.top4top.io/m_19923zx481.mp3'
+const urlaudiomenu = 'https://c.top4top.io/m_2092eudv21.mp3'
 // link direto da url do audio
 
 const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
